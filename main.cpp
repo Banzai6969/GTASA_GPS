@@ -20,7 +20,7 @@
 #define GPS_LINE_A              255
 
 MYMODCFG(net.dk22pac.rusjj.gps, GTA:SA GPS, 1.4.1, DK22Pac & JuniorDjjr & juicermv & RusJJ)
-NEEDGAME(com.rockstargames.gtasa)
+NEEDGAME(com.rspgta.game)
 
 CVector2D g_vecUnderRadar(0.0, -1.05); // 0
 CVector2D g_vecAboveRadar(0.0, 1.05); // 1
